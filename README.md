@@ -2,9 +2,9 @@
 <p align="center"><img src="assets/hero.png" alt="Find what exists: a Claude Code skill by Ryan Reid" width="100%"></p>
 
 <p align="center">
-  <a href="https://code.claude.com/docs/en/skills"><img alt="Claude Code skill" src="https://img.shields.io/badge/Claude_Code-skill-2348d6?style=flat-square"></a>
-  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-1a1916?style=flat-square"></a>
-  <a href="https://github.com/RyanWReid/find-existing/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/RyanWReid/find-existing?style=flat-square&color=1a1916&label=stars"></a>
+  <a href="https://code.claude.com/docs/en/skills"><img alt="Claude Code skill" src="https://img.shields.io/badge/Claude_Code-skill-2348d6?style=flat-square&labelColor=1a1916"></a>
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-57534a?style=flat-square&labelColor=1a1916"></a>
+  <a href="https://github.com/RyanWReid/find-existing/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/RyanWReid/find-existing?style=flat-square&color=57534a&labelColor=1a1916&label=stars"></a>
 </p>
 
 <p align="center"><b>Before Claude builds a new tool, it checks whether someone already built it.</b><br>It searches about 320,000 published skills and GitHub, then gives you build or adopt in three lines.</p>
